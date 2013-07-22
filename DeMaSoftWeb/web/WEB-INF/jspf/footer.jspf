@@ -1,0 +1,15 @@
+<br/><br/><br/><br/>
+
+      <hr>
+
+      <footer id="footer">
+        <p class="pull-right"><a href="#top">Ir arriba</a></p>
+        Hecho por el Equipo B.
+      </footer>
+
+    </div>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="resources/jquery.smooth-scroll.min.js"></script>
+    <script src="resources/bootstrap.min.js"></script>
+  </body>
+</html>
